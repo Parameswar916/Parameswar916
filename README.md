@@ -94,13 +94,3 @@ Goal: AWS Certified Cloud Engineer in 12 Weeks
   
 </div>
 ```
-
----
-
-## How To Save:
-```
-1. Paste all the code above
-2. Scroll down
-3. Click "Commit changes"
-4. Click "Commit changes" again
-   to confirm
