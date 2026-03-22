@@ -30,7 +30,7 @@ Goal: AWS Certified Cloud Engineer in 12 Weeks
 
 | Week | Topic | Status |
 |------|-------|--------|
-| Week 1 | Linux + Networking + EC2 | ✅ Complete |
+| Week 1 | Linux + Networking + EC2 + GitHub + LinkedIn| ✅ Complete |
 | Week 2 | S3 + VPC + Elastic IP | 🔄 In Progress |
 | Week 3 | AWS Cloud Practitioner Cert | ⏳ Upcoming |
 | Week 4 | Docker + Containers | ⏳ Upcoming |
