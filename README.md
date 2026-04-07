@@ -30,13 +30,15 @@ Goal: AWS Certified Cloud Engineer in 12 Weeks
 
 | Week | Topic | Status |
 |------|-------|--------|
-| Week 1 | Linux + Networking + EC2 + GitHub + LinkedIn| ✅ Complete |
-| Week 2 | S3 + VPC + Elastic IP | 🔄 In Progress |
-| Week 3 | AWS Cloud Practitioner Cert | ⏳ Upcoming |
-| Week 4 | Docker + Containers | ⏳ Upcoming |
-| Week 5-8 | Solutions Architect Prep | ⏳ Upcoming |
+| Week 1 | Linux + Networking + EC2 + SSH + Apache + GitHub + LinkedIn | ✅ Complete |
+| Week 2 | Elastic IP + GitHub Pages + CI/CD + S3 Storage + Object Immutability | ✅ Complete |
+| Week 3 | VPC + Subnets + Security Groups + Route Tables | 🔄 In Progress |
+| Week 4 | AWS Cloud Practitioner Cert Prep | ⏳ Upcoming |
+| Week 5 | Docker + Containers + ECS | ⏳ Upcoming |
+| Week 6 | Terraform + Infrastructure as Code | ⏳ Upcoming |
+| Week 7-8 | Solutions Architect Prep (SAA-C03) | ⏳ Upcoming |
 | Week 9-10 | AWS Bedrock + AI Services | ⏳ Upcoming |
-| Week 11-12 | Portfolio Projects + Jobs | ⏳ Upcoming |
+| Week 11-12 | Portfolio Projects + Job Applications | ⏳ Upcoming |
 
 ---
 
