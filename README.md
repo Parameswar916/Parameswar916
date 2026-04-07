@@ -48,6 +48,9 @@ Goal: AWS Certified Cloud Engineer in 12 Weeks
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
 
 ### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -64,9 +67,11 @@ Goal: AWS Certified Cloud Engineer in 12 Weeks
 
 ## 🏆 Week 1 Achievement
 
-> **Deployed a live portfolio website on AWS EC2**
-> from absolute zero in 7 days.
+> **Week 1:** Deployed live portfolio on AWS EC2 from absolute zero in 7 days.
 > Amazon Linux 2023 | Apache | SSH | IAM | Security Groups
+
+> **Week 2:** Mastered S3 Object Storage — Object Immutability, Bucket Policies,
+> Copy-Overwrite technique. Set up permanent GitHub Pages with CI/CD auto-deploy.
 
 ---
 
