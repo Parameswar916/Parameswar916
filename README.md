@@ -65,7 +65,7 @@ Goal: AWS Certified Cloud Engineer in 12 Weeks
 
 ---
 
-## 🏆 Week 1 Achievement
+## 🏆 Key Achievements So Far
 
 > **Week 1:** Deployed live portfolio on AWS EC2 from absolute zero in 7 days.
 > Amazon Linux 2023 | Apache | SSH | IAM | Security Groups
